@@ -14,7 +14,7 @@ Installation
 
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/kdatta395/Currency-Converter
 
 
 2. Navigate to the project directory:
